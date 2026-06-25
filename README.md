@@ -20,18 +20,18 @@ This repository contains projects completed in DATA 581 at Gonzaga University. T
 
 | Folder | Tools | Description |
 |--------|-------|-------------|
-| [`Python/`](./Python/) | Python, pandas, seaborn, matplotlib | EDA and visualization on student exam performance |
-| [`PowerBI/`](./PowerBI/) | Power BI | Interactive sales analytics dashboard |
-| [`Tableau/`](./Tableau/) | Tableau | HR workforce demographics dashboard |
-| [`SQL/`](./SQL/) | SQLite | HR employee data analysis |
-| [`Reports/`](./Reports/) | LaTeX, Jupyter | Formal report of the Python midterm analysis |
+| [`Python/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/Python) | Python, pandas, seaborn, matplotlib | EDA and visualization on student exam performance |
+| [`PowerBI/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/PowerBI) | Power BI | Interactive sales analytics dashboard |
+| [`Tableau/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/Tableau) | Tableau | HR workforce demographics dashboard |
+| [`SQL/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/SQL) | SQLite | HR employee data analysis |
+| [`Reports/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/Reports) | LaTeX, Jupyter | Formal report of the Python midterm analysis |
 
 ---
 
 ## Projects
 
 ### Python - Student Exam Performance
-**[`Python/`](./Python/)**
+**[`Python/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/Python)**
 
 Two notebooks analyzing 1,000 student records across math, reading, and writing scores. The midterm notebook is a full individual analysis covering EDA, visualization critique, a technical report, and an ethics reflection. The group project covers six visualizations across demographic and preparation factors.
 
@@ -40,7 +40,7 @@ Two notebooks analyzing 1,000 student records across math, reading, and writing 
 ---
 
 ### Power BI - Sales Analytics Dashboard
-**[`PowerBI/`](./PowerBI/) - [Live Dashboard](https://app.powerbi.com/groups/me/reports/3877b6c9-a46c-4039-94c4-c844c0098048/cb02bfa1e43cdcb92385?experience=power-bi)**
+**[`PowerBI/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/PowerBI) - [Live Dashboard](https://app.powerbi.com/groups/me/reports/3877b6c9-a46c-4039-94c4-c844c0098048/cb02bfa1e43cdcb92385?experience=power-bi)**
 
 An interactive dashboard built on 1,000 sales transactions. Features slicers for region, product category, and date range that cross-filter all visuals in real time.
 
@@ -49,7 +49,7 @@ An interactive dashboard built on 1,000 sales transactions. Features slicers for
 ---
 
 ### Tableau - HR Analytics Dashboard
-**[`Tableau/`](./Tableau/) - [Live Dashboard](https://public.tableau.com/views/TableauDashFinal/Dashboard1)**
+**[`Tableau/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/Tableau) - [Live Dashboard](https://public.tableau.com/views/TableauDashFinal/Dashboard1)**
 
 A workforce demographics dashboard built on a simulated HR dataset of ~500 employees across 6 departments, covering headcount, gender, age, salary, and education level.
 
@@ -58,7 +58,7 @@ A workforce demographics dashboard built on a simulated HR dataset of ~500 emplo
 ---
 
 ### SQL - HR Employee Analysis
-**[`SQL/`](./SQL/)**
+**[`SQL/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/SQL)**
 
 A SQL script covering core analytics operations on a 50-employee HR dataset. Includes in-class queries and an extended analytics section with subqueries and tenure calculations. No setup needed - paste into [SQLite Online](https://sqliteonline.com) and run.
 
@@ -67,7 +67,7 @@ A SQL script covering core analytics operations on a 50-employee HR dataset. Inc
 ---
 
 ### Reports - Student Performance Analysis
-**[`Reports/`](./Reports/)**
+**[`Reports/`](https://github.com/basinhopping/data-analytics-portfolio/tree/main/Reports)**
 
 A formal write-up of the Python midterm analysis typeset in LaTeX, covering EDA findings, methods, results, ethics, and conclusions.
 
